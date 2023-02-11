@@ -6,7 +6,7 @@ OpenProducer is a collective of like-minded developers, designers, producers, ed
 - Provide access to free tools and training enabling individuals to express themselves and groups to advance their mission.
 
 ### Projects we contribute to
-OpenProducer helps support and sutain the following open source projects:
+OpenProducer helps support and sustain the following open source projects:
 
 - [AzuraCast](https://github.com/AzuraCast/AzuraCast) is a self-hosted, all-in-one web radio management suite.
 - [LibreTime](https://github.com/libretime/libretime) is open broadcast software for scheduling and remote station management.
